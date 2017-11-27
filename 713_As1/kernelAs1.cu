@@ -12,7 +12,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 // Thread block size
 #define M 5 /* Height of A */
 #define N 9 /* Width  of A and Height of B */
